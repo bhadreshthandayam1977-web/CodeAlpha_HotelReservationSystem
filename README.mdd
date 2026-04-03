@@ -1,0 +1,25 @@
+# Hotel Reservation System
+
+This is a Java console-based application developed as part of CodeAlpha Internship.
+
+## Features
+- View available rooms
+- Book a room
+- Cancel booking
+- Room categories: Standard, Deluxe, Suite
+
+## Concepts Used
+- Object-Oriented Programming (OOP)
+- Classes and Objects
+- ArrayList
+- Conditional Statements
+
+## How to Run
+1. Compile the program:
+   javac HotelReservationSystem.java
+
+2. Run the program:
+   java HotelReservationSystem
+
+## Author
+Your Name
